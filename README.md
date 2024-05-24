@@ -10,4 +10,4 @@ GitHub Finder is a web application that allows users to search for any GitHub us
 
 ## Demo
 
-You can check out a live demo of the application [here](https://github-finder-psi-eight.vercel.app/).
+You can check out a live demo of the application [here](https://github-profile-finder-alpha.vercel.app/).
